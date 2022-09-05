@@ -117,8 +117,23 @@ Kona - sugar, decaf coffee, cocoa powder, Grana Padano, dry mustard, garlic, s/p
 
 ## Steak Sauces
 
+bearnaise - egg yold, butter, tarragon, shallots
+
 
 
 ## Cocktails
 
+black tie margarita - casamigos repo, cointreau, lime, lemon, simple, `LIME WEDGE`
+
+kona espressotini - titos, italian espresso liquour, simple, espresso, `KONA n COCOA powder`
+
+manhattan - woodford reserve double oak, reserve rye, carpano antica, angostura, `amarena cherries`
+
+capital cosmo - ketel citron, cointreau, lime, cranberry, `lemon peel`
+
+blackberry sidecar - woodford reserve, cointreau, lemon, simple, `thyme sprig, 2 blackberries`
+
+bohemian - absolute peach vodka, elderflower cordial, creme de cassis, champagne, `2 rasperries`
+
+in fashion - russel's reserve 10 yr small batch, simple, black walnut bitters, grand marnier, `amarena cherry, orange peel`
 
