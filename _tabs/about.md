@@ -227,10 +227,13 @@ filet mignon - 10 oz
 
 **seared seabass** - 8 1/2 oz Chilean sea bass pan seared, served with shiitake mushroom caps, sliced asparagus and rich japanese miso butter sauce
 
-### Steak Rubs and mixes
+### Steak Rubs
 
 1. `Kona` - sugar, decaf coffee, cocoa powder, Grana Padano, dry mustard, garlic, s/p
 2. `Porcini` - sugar, red pepper flakes, s/p, porcini mushrooms
+
+### Mixes
+
 3. `gremolata` - parsley, lemon zest, garlic
 4. mushroom duxelle - butter, shiitake, cremini, oyster, sherry wine, thyme, s/p
 5. herbed boursin cheese - cream cheese, garlic, lemon, parsley, tarragon, basil, oregano, pepper
@@ -242,6 +245,9 @@ filet mignon - 10 oz
 1. bearnaise - egg yolk, butter, tarragon, shallots, garlic, chervil
 2. horseradish - sour cream, horseradish, worcestershire
 3. courvoisier - peppercorn, cognac, cream
+
+### Jus and glazes
+
 4. sherry chicken jus
 5. hoisin glaze - hoisin, dark soy, honey, sambal sauce, lime
 
@@ -317,8 +323,8 @@ celebration - cheesecake and flourless
 
 ### Sparkling
 
-1. `Schramsberg` *Sparkling Wine* 2018 California
-2. `Valdo #1` *Sparkling Wine* NV Italy
+1. `Schramsberg` 2018 *Sparkling Wine* California
+2. `Valdo #1` NV *Sparkling Wine* Italy
 3. `Nicolas Feuillate` 'Reserve Exclusive Brut Rose' NV *Champagne*
 
 ### White
@@ -328,7 +334,7 @@ celebration - cheesecake and flourless
 3. Diatom by `Brewer - Clifton` 2019 *Chardonnay* California
 4. Casa `Lunardi` 2020 *Pinot Grigio* Italy
 5. `Santa Marguerita` 2021 *Pinot Grigio* Italy
-6. DeLille Cellars `Chaleur Blanc` *White Blend* 2019 Washington
+6. DeLille Cellars `Chaleur Blanc` 2019 *White Blend* Washington
 7. Prum `Essence` 2020 *Riesling* Germany
 8. Pascal Jolivet `Attittude` 2020 *Sauvignon Blanc* France
 9. `Peter Yealands` 2020 *Sauvignon Blanc* New Zealand
@@ -347,7 +353,7 @@ celebration - cheesecake and flourless
 10. `The Prisoner` 2019 *Red Blend* California
 11. `Château Lassègue` Grand Cru 2016 *Bordeaux* France
 12. `Il Bruciato` 2020 *Super Tuscan* Italy
-13. `Marques de Caceres` Gran Reserva 2016 Spain
+13. `Marques de Caceres` Gran Reserva 2016 *Tempranillo* Spain
 
 
 
